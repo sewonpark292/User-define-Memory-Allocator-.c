@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\psw01\\source\\repos\\swpj2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D22C43-1F6D-4133-AA72-FDB8554FAE5A}|swpj2\\swpj2.vcxproj|C:\\Users\\psw01\\source\\repos\\swpj2\\swpj2\\user_define_MA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2D22C43-1F6D-4133-AA72-FDB8554FAE5A}|swpj2\\swpj2.vcxproj|solutionrelative:swpj2\\user_define_MA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "user_define_MA.c",
+              "DocumentMoniker": "C:\\Users\\psw01\\source\\repos\\swpj2\\swpj2\\user_define_MA.c",
+              "RelativeDocumentMoniker": "swpj2\\user_define_MA.c",
+              "ToolTip": "C:\\Users\\psw01\\source\\repos\\swpj2\\swpj2\\user_define_MA.c",
+              "RelativeToolTip": "swpj2\\user_define_MA.c",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-16T03:15:45.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
